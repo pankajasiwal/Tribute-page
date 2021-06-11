@@ -1,0 +1,23 @@
+.thumbnail {
+    background-color: #ddd;
+    display: block;
+    padding: 30px;
+}
+* {
+    background-color: #ddd;
+    padding-top: 10px;
+}
+
+.text-center
+{
+    text-align: center;
+}
+.img-circle{
+    border-radius: 50%;
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.row{
+   margin-left: 80px;
+}
